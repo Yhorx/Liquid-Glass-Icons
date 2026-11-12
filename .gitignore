@@ -1,0 +1,17 @@
+# Cache and temporary files
+*.cache
+*~
+*.bak
+*.tmp
+*.old
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Archives and build artifacts
+*.tar.gz
+*.tar.xz
+*.zip
+dist/
+build/
