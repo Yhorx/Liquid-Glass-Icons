@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 # ==============================================================================
 # Liquid Glass Dark Icon Theme - Installer
-# Author: Jorge (Yhorx) <jorge18xdd@gmail.com>
 # License: GNU General Public License v3.0
 # ==============================================================================
 
